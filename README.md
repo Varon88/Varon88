@@ -32,8 +32,10 @@ textmate          0 secs          ░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varon88&show_icons=true&theme=dracula&locale=en&layout=compact" alt="varon88" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varon88&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="varon88" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varon88&show_icons=true&theme=dracula&locale=en" alt="varon88" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varon88&show_icons=true&theme=chartreuse-dark&locale=en" alt="varon88" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varon88&" alt="varon88" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varon88&" alt="varon88" /></p> --> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Varon88&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
