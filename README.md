@@ -34,14 +34,12 @@ textmate          0 secs          ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varon88&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="varon88" /></p>
 <br> <!-- it is what it is, 5 brs dont ask me why, it works  -->
-<br>
-<br>
-<br>
-<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=varon88&show_icons=true&theme=chartreuse-dark&locale=en" alt="varon88" /></p>
+</div>
+
 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varon88&" alt="varon88" /></p> --> 
