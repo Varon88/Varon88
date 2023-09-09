@@ -16,20 +16,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2023 - To: 08 September 2023
+From: 02 August 2023 - To: 08 September 2023
 
-Total Time: 24 hrs 51 mins
+Total Time: 106 hrs 29 mins
 
-Java              20 hrs 45 mins  █████████████████████░░░░   83.49 %
-XML               2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
-Java Properties   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Properties        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Ezhil             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-YAML              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-GitIgnore file    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java              97 hrs 6 mins   ██████████████████████▓░░   91.19 %
+XML               6 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+GitIgnore file    39 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+YAML              33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Properties        30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Ezhil             25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Java Properties   24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Bash              18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Text              11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Shell Script      7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
