@@ -16,19 +16,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 09 October 2023
+From: 02 August 2023 - To: 10 October 2023
 
-Total Time: 122 hrs 9 mins
+Total Time: 123 hrs 34 mins
 
-Java              88 hrs 29 mins  ██████████████████░░░░░░░   72.44 %
-JavaScript        21 hrs 12 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-XML               5 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-CSS               1 hr 42 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-YAML              1 hr 27 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-TypeScript        1 hr 22 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Java              88 hrs 29 mins  ██████████████████░░░░░░░   71.61 %
+JavaScript        22 hrs 38 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
+XML               5 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+CSS               1 hr 42 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+YAML              1 hr 27 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+TypeScript        1 hr 22 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 Java Properties   36 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 Properties        26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-GitIgnore file    25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+GitIgnore file    25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 JSON              12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
