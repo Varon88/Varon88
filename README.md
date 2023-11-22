@@ -16,20 +16,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 15 November 2023
+From: 02 August 2023 - To: 21 November 2023
 
-Total Time: 156 hrs 22 mins
+Total Time: 164 hrs 55 mins
 
-Java               117 hrs 44 mins ██████████████████▓░░░░░░   75.29 %
-JavaScript         22 hrs 45 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-XML                7 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-YAML               1 hr 54 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-CSS                1 hr 42 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-TypeScript         1 hr 22 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Java Properties    44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Markdown           31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Properties         30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-GitIgnore file     29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Java               125 hrs 51 mins ███████████████████░░░░░░   76.31 %
+JavaScript         22 hrs 45 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
+XML                7 hrs 43 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+YAML               1 hr 54 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+CSS                1 hr 42 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+TypeScript         1 hr 22 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Java Properties    44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Properties         32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Markdown           31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+GitIgnore file     29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
