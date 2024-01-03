@@ -16,17 +16,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 31 December 2023
+From: 02 August 2023 - To: 01 January 2024
 
-Total Time: 222 hrs 49 mins
+Total Time: 223 hrs 51 mins
 
-Java               178 hrs 8 mins  ████████████████████░░░░░   79.94 %
-JavaScript         22 hrs 45 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-XML                11 hrs 14 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Java               179 hrs 2 mins  ████████████████████░░░░░   79.98 %
+JavaScript         22 hrs 45 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+XML                11 hrs 14 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
 YAML               2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 CSS                1 hr 42 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-SQL                1 hr 36 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-TypeScript         1 hr 22 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+SQL                1 hr 37 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+TypeScript         1 hr 22 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 Java Properties    44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 Markdown           34 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 GitIgnore file     33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
