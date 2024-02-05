@@ -37,8 +37,8 @@ Markdown           34 mins         ░░░░░░░░░░░░░░░
 ---
 
 <div>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varon88&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="varon88" /></p> -->
- <!-- it is what it is, 5 brs dont ask me why, it works  -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varon88&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="varon88" /></p> -->
+ <!-- it is what it is, 5 brs dont ask me why, it works 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=varon88&show_icons=true&theme=chartreuse-dark&locale=en" alt="varon88" /></p>
 </div>
 
