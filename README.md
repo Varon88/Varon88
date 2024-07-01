@@ -16,20 +16,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 28 June 2024
+From: 02 August 2023 - To: 29 June 2024
 
-Total Time: 335 hrs 45 mins
+Total Time: 336 hrs 44 mins
 
-Java               227 hrs 44 mins █████████████████░░░░░░░░   67.83 %
-Python             46 hrs 37 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
-JavaScript         22 hrs 47 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-XML                21 hrs 52 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Java               228 hrs 12 mins █████████████████░░░░░░░░   67.77 %
+Python             46 hrs 37 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+JavaScript         22 hrs 47 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+XML                21 hrs 52 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
 YAML               3 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-SQL                1 hr 50 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+SQL                1 hr 50 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 CSS                1 hr 42 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 TypeScript         1 hr 22 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+GitIgnore file     1 hr 7 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Shell Script       1 hr 4 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Docker             1 hr            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
