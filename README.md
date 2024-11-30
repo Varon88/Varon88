@@ -16,14 +16,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 27 November 2024
+From: 02 August 2023 - To: 28 November 2024
 
-Total Time: 617 hrs 34 mins
+Total Time: 619 hrs 19 mins
 
-Java               406 hrs 14 mins ████████████████▒░░░░░░░░   65.78 %
-Python             134 hrs 17 mins █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
-XML                23 hrs 55 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-JavaScript         22 hrs 47 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Java               406 hrs 14 mins ████████████████▒░░░░░░░░   65.59 %
+Python             136 hrs 3 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
+XML                23 hrs 55 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+JavaScript         22 hrs 47 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 YAML               5 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 HTML               3 hrs 24 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 Text               3 hrs 21 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
