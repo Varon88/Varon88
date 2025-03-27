@@ -16,19 +16,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 24 March 2025
+From: 02 August 2023 - To: 25 March 2025
 
-Total Time: 823 hrs 55 mins
+Total Time: 827 hrs 15 mins
 
-Java                  583 hrs 37 mins █████████████████▓░░░░░░░   70.84 %
-Python                150 hrs 37 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
-XML                   25 hrs 50 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-JavaScript            22 hrs 52 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-YAML                  12 hrs 55 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Java                  586 hrs 50 mins █████████████████▓░░░░░░░   70.94 %
+Python                150 hrs 44 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
+XML                   25 hrs 50 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+JavaScript            22 hrs 52 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+YAML                  12 hrs 55 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 HTML                  3 hrs 24 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 Text                  3 hrs 22 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 SQL                   3 hrs 11 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Markdown              1 hr 46 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Markdown              1 hr 46 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 CSS                   1 hr 42 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
