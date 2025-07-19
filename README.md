@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 16 July 2025
+From: 02 August 2023 - To: 17 July 2025
 
-Total Time: 970 hrs 14 mins
+Total Time: 970 hrs 20 mins
 
-Java                  647 hrs 8 mins  ████████████████▓░░░░░░░░   66.70 %
-Python                190 hrs 36 mins █████░░░░░░░░░░░░░░░░░░░░   19.64 %
+Java                  647 hrs 8 mins  ████████████████▓░░░░░░░░   66.69 %
+Python                190 hrs 42 mins █████░░░░░░░░░░░░░░░░░░░░   19.65 %
 JavaScript            26 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 XML                   25 hrs 59 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 SQL                   21 hrs 11 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
