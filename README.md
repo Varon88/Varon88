@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 25 November 2025
+From: 02 August 2023 - To: 26 November 2025
 
-Total Time: 1,143 hrs 18 mins
+Total Time: 1,143 hrs 24 mins
 
-Java                  736 hrs 11 mins ████████████████░░░░░░░░░   64.39 %
+Java                  736 hrs 17 mins ████████████████░░░░░░░░░   64.39 %
 Python                261 hrs 24 mins █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
 XML                   26 hrs 35 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 JavaScript            26 hrs 19 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
