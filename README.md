@@ -16,16 +16,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 30 November 2025
+From: 02 August 2023 - To: 01 December 2025
 
-Total Time: 1,144 hrs 24 mins
+Total Time: 1,144 hrs 40 mins
 
-Java                  737 hrs 9 mins  ████████████████░░░░░░░░░   64.41 %
+Java                  737 hrs 24 mins ████████████████░░░░░░░░░   64.42 %
 Python                261 hrs 24 mins █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
 XML                   26 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 JavaScript            26 hrs 19 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 SQL                   25 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-YAML                  18 hrs 35 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+YAML                  18 hrs 35 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 Markdown              13 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 PlantUML file         7 hrs 22 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 Text                  4 hrs 32 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
