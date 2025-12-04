@@ -16,17 +16,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 01 December 2025
+From: 02 August 2023 - To: 02 December 2025
 
-Total Time: 1,144 hrs 40 mins
+Total Time: 1,146 hrs 33 mins
 
-Java                  737 hrs 24 mins ████████████████░░░░░░░░░   64.42 %
-Python                261 hrs 24 mins █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
-XML                   26 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Java                  739 hrs 15 mins ████████████████░░░░░░░░░   64.48 %
+Python                261 hrs 24 mins █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
+XML                   26 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 JavaScript            26 hrs 19 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-SQL                   25 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-YAML                  18 hrs 35 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Markdown              13 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+SQL                   25 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+YAML                  18 hrs 38 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Markdown              13 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 PlantUML file         7 hrs 22 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 Text                  4 hrs 32 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 Other                 4 hrs 6 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
