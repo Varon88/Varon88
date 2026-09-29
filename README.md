@@ -16,20 +16,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 26 September 2026
+From: 02 August 2023 - To: 27 September 2026
 
-Total Time: 1,193 hrs 21 mins
+Total Time: 1,196 hrs 8 mins
 
-Java                  773 hrs 36 mins       ████████████████▒░░░░░░░░   64.83 %
-Python                263 hrs 40 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
-JavaScript            27 hrs 12 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Java                  773 hrs 36 mins       ████████████████▒░░░░░░░░   64.67 %
+Python                263 hrs 40 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
+JavaScript            27 hrs 14 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 XML                   26 hrs 52 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-SQL                   26 hrs 34 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-YAML                  19 hrs 20 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Markdown              14 hrs 8 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-PlantUML file         13 hrs 48 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+SQL                   26 hrs 34 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+YAML                  20 hrs 38 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Markdown              14 hrs 15 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+PlantUML file         13 hrs 48 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 Text                  4 hrs 48 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Other                 4 hrs 8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Other                 4 hrs 14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
